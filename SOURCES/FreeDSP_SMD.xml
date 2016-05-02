@@ -1,0 +1,2507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/Users/rkn/Documents/KiCAD/projekte/freeDSP-CLASSIC-BAL-SMD-A/SOURCES/FreeDSP_SMD.sch</source>
+    <date>Montag, 25. April 2016 22:03:18</date>
+    <tool>Eeschema 4.0.2-stable</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date>3 may 2015</date>
+        <source>FreeDSP_SMD.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="IC2">
+      <value>ADAU1701</value>
+      <footprint>Housings_QFP:LQFP-48_7x7mm_Pitch0.5mm</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="ADAU1701"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55396BF6</tstamp>
+    </comp>
+    <comp ref="IC1">
+      <value>AD8608</value>
+      <footprint>Housings_SOIC:SOIC-14_3.9x8.7mm_Pitch1.27mm</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="OPAMP4"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55397052</tstamp>
+    </comp>
+    <comp ref="R13">
+      <value>18k</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55397120</tstamp>
+    </comp>
+    <comp ref="R12">
+      <value>18k</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55397132</tstamp>
+    </comp>
+    <comp ref="R14">
+      <value>18k</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55397139</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>18k</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55397145</tstamp>
+    </comp>
+    <comp ref="Q1">
+      <value>PNP</value>
+      <footprint>Housings_SOT-23_SOT-143_TSOT-6:SOT-23</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="PNP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>553971F3</tstamp>
+    </comp>
+    <comp ref="R17">
+      <value>1k</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55397206</tstamp>
+    </comp>
+    <comp ref="C21">
+      <value>10u</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55397343</tstamp>
+    </comp>
+    <comp ref="C23">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55397350</tstamp>
+    </comp>
+    <comp ref="R21">
+      <value>100R</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55397552</tstamp>
+    </comp>
+    <comp ref="X1">
+      <value>12M288Hz</value>
+      <footprint>Crystals:Crystal_HC49-SD_SMD</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="CRYSTAL"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55397564</tstamp>
+    </comp>
+    <comp ref="C33">
+      <value>22p</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>553975B5</tstamp>
+    </comp>
+    <comp ref="C32">
+      <value>22p</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>553975C0</tstamp>
+    </comp>
+    <comp ref="R20">
+      <value>470R</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55397684</tstamp>
+    </comp>
+    <comp ref="C31">
+      <value>56n</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5539768A</tstamp>
+    </comp>
+    <comp ref="C30">
+      <value>3n3</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55397690</tstamp>
+    </comp>
+    <comp ref="C25">
+      <value>10u</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55397782</tstamp>
+    </comp>
+    <comp ref="C24">
+      <value>10u</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5539784E</tstamp>
+    </comp>
+    <comp ref="C22">
+      <value>10u</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55397854</tstamp>
+    </comp>
+    <comp ref="C28">
+      <value>470p</value>
+      <footprint>rklib:C0805-X7R</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55397CDA</tstamp>
+    </comp>
+    <comp ref="R18">
+      <value>4k75</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55397CE0</tstamp>
+    </comp>
+    <comp ref="C26">
+      <value>150p</value>
+      <footprint>rklib:C0805-X7R</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55397D00</tstamp>
+    </comp>
+    <comp ref="R15">
+      <value>4k75</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55397D24</tstamp>
+    </comp>
+    <comp ref="C29">
+      <value>470p</value>
+      <footprint>rklib:C0805-X7R</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55397EDB</tstamp>
+    </comp>
+    <comp ref="R19">
+      <value>4k75</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55397EE1</tstamp>
+    </comp>
+    <comp ref="C27">
+      <value>150p</value>
+      <footprint>rklib:C0805-X7R</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55397EEB</tstamp>
+    </comp>
+    <comp ref="R16">
+      <value>4k75</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55397EF1</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>470p</value>
+      <footprint>rklib:C0805-X7R</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55397F0D</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>4k75</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55397F13</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>150p</value>
+      <footprint>rklib:C0805-X7R</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55397F1D</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>4k75</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55397F23</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>470p</value>
+      <footprint>rklib:C0805-X7R</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55397F3F</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>4k75</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55397F45</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>150p</value>
+      <footprint>rklib:C0805-X7R</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55397F4F</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>4k75</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55397F55</tstamp>
+    </comp>
+    <comp ref="C20">
+      <value>3n3</value>
+      <footprint>rklib:C0805-X7R</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55398B6B</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>47k</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55398B7C</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>680</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55398B8C</tstamp>
+    </comp>
+    <comp ref="C19">
+      <value>3n3</value>
+      <footprint>rklib:C0805-X7R</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55398D52</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>47k</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55398D58</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>680</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55398D5E</tstamp>
+    </comp>
+    <comp ref="C37">
+      <value>3n3</value>
+      <footprint>rklib:C0805-X7R</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55398D73</tstamp>
+    </comp>
+    <comp ref="R27">
+      <value>47k</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55398D79</tstamp>
+    </comp>
+    <comp ref="R23">
+      <value>680</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55398D7F</tstamp>
+    </comp>
+    <comp ref="C36">
+      <value>3n3</value>
+      <footprint>rklib:C0805-X7R</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55398D94</tstamp>
+    </comp>
+    <comp ref="R26">
+      <value>47k</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55398D9A</tstamp>
+    </comp>
+    <comp ref="R22">
+      <value>680</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55398DA0</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>220u</value>
+      <footprint>Capacitors_ThroughHole:C_Radial_D10_L13_P5</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="CAPAPOL"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5539951C</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>220u</value>
+      <footprint>Capacitors_ThroughHole:C_Radial_D10_L13_P5</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="CAPAPOL"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55399538</tstamp>
+    </comp>
+    <comp ref="C39">
+      <value>100n</value>
+      <footprint>rklib:C0805-X7R</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>553996A7</tstamp>
+    </comp>
+    <comp ref="C9">
+      <value>10u</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5539985C</tstamp>
+    </comp>
+    <comp ref="C11">
+      <value>10u</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55399E5D</tstamp>
+    </comp>
+    <comp ref="P2">
+      <value>CONN_2</value>
+      <footprint>Connect:bornier2</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="CONN_2"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5539A131</tstamp>
+    </comp>
+    <comp ref="P4">
+      <value>USBi</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_2x05</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="CONN_10"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5539AA48</tstamp>
+    </comp>
+    <comp ref="C18">
+      <value>10n</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5539AE9B</tstamp>
+    </comp>
+    <comp ref="IC3">
+      <value>24AA256</value>
+      <footprint>Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="I2CFLASH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5539B417</tstamp>
+    </comp>
+    <comp ref="C38">
+      <value>100n</value>
+      <footprint>rklib:C0805-X7R</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5539B42A</tstamp>
+    </comp>
+    <comp ref="R25">
+      <value>10k</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5539B590</tstamp>
+    </comp>
+    <comp ref="R24">
+      <value>10k</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5539B596</tstamp>
+    </comp>
+    <comp ref="C40">
+      <value>100n</value>
+      <footprint>rklib:C0805-X7R</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55460807</tstamp>
+    </comp>
+    <comp ref="P1">
+      <value>CONN_02X11</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_2x11</footprint>
+      <libsource lib="conn" part="CONN_02X11"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55F2F804</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>78033</value>
+      <footprint>alexmod:SOT-223_Reg_MAE</footprint>
+      <libsource lib="regul" part="7805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>562BABC2</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>4040</value>
+      <footprint>Housings_SOIC:SOIC-16_3.9x9.9mm_Pitch1.27mm</footprint>
+      <libsource lib="cmos4000" part="4040"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5664C8DB</tstamp>
+    </comp>
+    <comp ref="P3">
+      <value>CONN_02X02</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_2x02</footprint>
+      <libsource lib="conn" part="CONN_02X02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>566606E2</tstamp>
+    </comp>
+    <comp ref="P5">
+      <value>CONN_02X13</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_2x13</footprint>
+      <libsource lib="conn" part="CONN_02X13"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>566966A2</tstamp>
+    </comp>
+    <comp ref="U3">
+      <value>7805</value>
+      <footprint>alexmod:SOT-223_Reg_MAE</footprint>
+      <libsource lib="regul" part="7805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5669901D</tstamp>
+    </comp>
+    <comp ref="C17">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>566993B6</tstamp>
+    </comp>
+    <comp ref="C14">
+      <value>10u</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>566A1D67</tstamp>
+    </comp>
+    <comp ref="JP1">
+      <value>JUMPER</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x02</footprint>
+      <libsource lib="device" part="JUMPER"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>566A6CA5</tstamp>
+    </comp>
+    <comp ref="IC4">
+      <value>TC7SZ08</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-23-5</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="TC7SZ08"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>566DFFAB</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>566E8147</tstamp>
+    </comp>
+    <comp ref="P6">
+      <value>CONN_01X06</value>
+      <footprint>rklib:SL_5.08HC-06-90</footprint>
+      <libsource lib="conn" part="CONN_01X06"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571A343A</tstamp>
+    </comp>
+    <comp ref="R30">
+      <value>100R</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571A53EE</tstamp>
+    </comp>
+    <comp ref="R32">
+      <value>100R</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571A54E3</tstamp>
+    </comp>
+    <comp ref="C42">
+      <value>100p</value>
+      <footprint>rklib:C0805-X7R</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571A5E59</tstamp>
+    </comp>
+    <comp ref="C46">
+      <value>100p</value>
+      <footprint>rklib:C0805-X7R</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571A5F36</tstamp>
+    </comp>
+    <comp ref="R29">
+      <value>100k</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571A6267</tstamp>
+    </comp>
+    <comp ref="R34">
+      <value>100k</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571A6354</tstamp>
+    </comp>
+    <comp ref="C43">
+      <value>47u0 ./ 35V</value>
+      <footprint>Capacitors_ThroughHole:C_Radial_D8_L11.5_P3.5</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571B38E0</tstamp>
+    </comp>
+    <comp ref="C44">
+      <value>47u0 ./ 35V</value>
+      <footprint>Capacitors_ThroughHole:C_Radial_D8_L11.5_P3.5</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571B39CC</tstamp>
+    </comp>
+    <comp ref="IC5">
+      <value>AD8608</value>
+      <footprint>Housings_SOIC:SOIC-14_3.9x8.7mm_Pitch1.27mm</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="OPAMP4"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571B5F6A</tstamp>
+    </comp>
+    <comp ref="R28">
+      <value>10k</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571B6108</tstamp>
+    </comp>
+    <comp ref="C41">
+      <value>27p0</value>
+      <footprint>rklib:C0805-X7R</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571B626A</tstamp>
+    </comp>
+    <comp ref="R36">
+      <value>10k</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571B7C7A</tstamp>
+    </comp>
+    <comp ref="C47">
+      <value>27p0</value>
+      <footprint>rklib:C0805-X7R</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571B7C81</tstamp>
+    </comp>
+    <comp ref="JP2">
+      <value>JUMPER3</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03</footprint>
+      <libsource lib="device" part="JUMPER3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571B898D</tstamp>
+    </comp>
+    <comp ref="R31">
+      <value>20k</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571B8C67</tstamp>
+    </comp>
+    <comp ref="R33">
+      <value>20k</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571B8D63</tstamp>
+    </comp>
+    <comp ref="R35">
+      <value>100R</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571B8E61</tstamp>
+    </comp>
+    <comp ref="R39">
+      <value>100R</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571BC1BB</tstamp>
+    </comp>
+    <comp ref="R41">
+      <value>100R</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571BC1C2</tstamp>
+    </comp>
+    <comp ref="C49">
+      <value>100p</value>
+      <footprint>rklib:C0805-X7R</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571BC1C9</tstamp>
+    </comp>
+    <comp ref="C52">
+      <value>100p</value>
+      <footprint>rklib:C0805-X7R</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571BC1D0</tstamp>
+    </comp>
+    <comp ref="R38">
+      <value>100k</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571BC1D7</tstamp>
+    </comp>
+    <comp ref="R43">
+      <value>100k</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571BC1DE</tstamp>
+    </comp>
+    <comp ref="C50">
+      <value>47u0 ./ 35V</value>
+      <footprint>Capacitors_ThroughHole:C_Radial_D8_L11.5_P3.5</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571BC203</tstamp>
+    </comp>
+    <comp ref="C51">
+      <value>47u0 ./ 35V</value>
+      <footprint>Capacitors_ThroughHole:C_Radial_D8_L11.5_P3.5</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571BC20A</tstamp>
+    </comp>
+    <comp ref="R37">
+      <value>10k</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571BC21A</tstamp>
+    </comp>
+    <comp ref="C48">
+      <value>27p0</value>
+      <footprint>rklib:C0805-X7R</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571BC221</tstamp>
+    </comp>
+    <comp ref="R45">
+      <value>10k</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571BC233</tstamp>
+    </comp>
+    <comp ref="C53">
+      <value>27p0</value>
+      <footprint>rklib:C0805-X7R</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571BC23A</tstamp>
+    </comp>
+    <comp ref="JP3">
+      <value>JUMPER3</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03</footprint>
+      <libsource lib="device" part="JUMPER3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571BC252</tstamp>
+    </comp>
+    <comp ref="R40">
+      <value>20k</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571BC259</tstamp>
+    </comp>
+    <comp ref="R42">
+      <value>20k</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571BC260</tstamp>
+    </comp>
+    <comp ref="R44">
+      <value>100R</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571BC267</tstamp>
+    </comp>
+    <comp ref="C45">
+      <value>100n</value>
+      <footprint>rklib:C0805-X7R</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571BE18A</tstamp>
+    </comp>
+    <comp ref="IC6">
+      <value>AD8608</value>
+      <footprint>Housings_SOIC:SOIC-14_3.9x8.7mm_Pitch1.27mm</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="OPAMP4"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571C32A0</tstamp>
+    </comp>
+    <comp ref="R47">
+      <value>10k</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571C34A7</tstamp>
+    </comp>
+    <comp ref="R46">
+      <value>10k</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571C35E0</tstamp>
+    </comp>
+    <comp ref="C54">
+      <value>47p0</value>
+      <footprint>rklib:C0805-X7R</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571C6DE5</tstamp>
+    </comp>
+    <comp ref="R51">
+      <value>27R0</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571C7370</tstamp>
+    </comp>
+    <comp ref="R50">
+      <value>27R0</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571C7496</tstamp>
+    </comp>
+    <comp ref="C55">
+      <value>47u0 ./ 35V</value>
+      <footprint>Capacitors_ThroughHole:C_Radial_D8_L11.5_P3.5</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571C8911</tstamp>
+    </comp>
+    <comp ref="R49">
+      <value>22k</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571C8B3E</tstamp>
+    </comp>
+    <comp ref="R48">
+      <value>56R0</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571C8F9C</tstamp>
+    </comp>
+    <comp ref="R53">
+      <value>10k</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571CC5E6</tstamp>
+    </comp>
+    <comp ref="R52">
+      <value>10k</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571CC5ED</tstamp>
+    </comp>
+    <comp ref="C56">
+      <value>47p0</value>
+      <footprint>rklib:C0805-X7R</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571CC5F9</tstamp>
+    </comp>
+    <comp ref="R57">
+      <value>27R0</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571CC604</tstamp>
+    </comp>
+    <comp ref="R56">
+      <value>27R0</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571CC60B</tstamp>
+    </comp>
+    <comp ref="C57">
+      <value>47u0 ./ 35V</value>
+      <footprint>Capacitors_ThroughHole:C_Radial_D8_L11.5_P3.5</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571CC61B</tstamp>
+    </comp>
+    <comp ref="R55">
+      <value>22k</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571CC623</tstamp>
+    </comp>
+    <comp ref="R54">
+      <value>56R0</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571CC62A</tstamp>
+    </comp>
+    <comp ref="R59">
+      <value>10k</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571CC7CA</tstamp>
+    </comp>
+    <comp ref="R58">
+      <value>10k</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571CC7D1</tstamp>
+    </comp>
+    <comp ref="C58">
+      <value>47p0</value>
+      <footprint>rklib:C0805-X7R</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571CC7DD</tstamp>
+    </comp>
+    <comp ref="R63">
+      <value>27R0</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571CC7E8</tstamp>
+    </comp>
+    <comp ref="R62">
+      <value>27R0</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571CC7EF</tstamp>
+    </comp>
+    <comp ref="C59">
+      <value>47u0 ./ 35V</value>
+      <footprint>Capacitors_ThroughHole:C_Radial_D8_L11.5_P3.5</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571CC7FF</tstamp>
+    </comp>
+    <comp ref="R61">
+      <value>22k</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571CC807</tstamp>
+    </comp>
+    <comp ref="R60">
+      <value>56R0</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571CC80E</tstamp>
+    </comp>
+    <comp ref="R65">
+      <value>10k</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571CCA74</tstamp>
+    </comp>
+    <comp ref="R64">
+      <value>10k</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571CCA7B</tstamp>
+    </comp>
+    <comp ref="C61">
+      <value>47p0</value>
+      <footprint>rklib:C0805-X7R</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571CCA87</tstamp>
+    </comp>
+    <comp ref="R69">
+      <value>27R0</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571CCA92</tstamp>
+    </comp>
+    <comp ref="R68">
+      <value>27R0</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571CCA99</tstamp>
+    </comp>
+    <comp ref="C62">
+      <value>47u0 ./ 35V</value>
+      <footprint>Capacitors_ThroughHole:C_Radial_D8_L11.5_P3.5</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571CCAA9</tstamp>
+    </comp>
+    <comp ref="R67">
+      <value>22k</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571CCAB1</tstamp>
+    </comp>
+    <comp ref="R66">
+      <value>56R0</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571CCAB8</tstamp>
+    </comp>
+    <comp ref="C60">
+      <value>100n</value>
+      <footprint>rklib:C0805-X7R</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571CEB71</tstamp>
+    </comp>
+    <comp ref="P7">
+      <value>CONN_01X06</value>
+      <footprint>rklib:SL_5.08HC-06-90</footprint>
+      <libsource lib="conn" part="CONN_01X06"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571D2029</tstamp>
+    </comp>
+    <comp ref="P8">
+      <value>CONN_01X06</value>
+      <footprint>rklib:SL_5.08HC-06-90</footprint>
+      <libsource lib="conn" part="CONN_01X06"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571D4816</tstamp>
+    </comp>
+    <comp ref="B1">
+      <value>TEST_1P</value>
+      <footprint>Connect:1pin</footprint>
+      <libsource lib="conn" part="TEST_1P"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57206633</tstamp>
+    </comp>
+    <comp ref="B2">
+      <value>TEST_1P</value>
+      <footprint>Connect:1pin</footprint>
+      <libsource lib="conn" part="TEST_1P"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5720721F</tstamp>
+    </comp>
+    <comp ref="B3">
+      <value>TEST_1P</value>
+      <footprint>Connect:1pin</footprint>
+      <libsource lib="conn" part="TEST_1P"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>572072CE</tstamp>
+    </comp>
+    <comp ref="B4">
+      <value>TEST_1P</value>
+      <footprint>Connect:1pin</footprint>
+      <libsource lib="conn" part="TEST_1P"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57207382</tstamp>
+    </comp>
+    <comp ref="P9">
+      <value>CONN_02X10</value>
+      <footprint>Socket_Strips:Socket_Strip_Straight_2x10</footprint>
+      <libsource lib="conn" part="CONN_02X10"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571E12E6</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>470R</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571E5B4F</tstamp>
+    </comp>
+    <comp ref="P10">
+      <value>CONN_02X10</value>
+      <footprint>Socket_Strips:Socket_Strip_Straight_2x10</footprint>
+      <libsource lib="conn" part="CONN_02X10"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571E9271</tstamp>
+    </comp>
+    <comp ref="Q2">
+      <value>2N7000</value>
+      <footprint>TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval</footprint>
+      <libsource lib="device" part="Q_NMOS_SGD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571EE309</tstamp>
+    </comp>
+    <comp ref="R73">
+      <value>1M00</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571EE5D5</tstamp>
+    </comp>
+    <comp ref="R71">
+      <value>10k</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571EE749</tstamp>
+    </comp>
+    <comp ref="R75">
+      <value>10k</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571EE95E</tstamp>
+    </comp>
+    <comp ref="Q3">
+      <value>2N7000</value>
+      <footprint>TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval</footprint>
+      <libsource lib="device" part="Q_NMOS_SGD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571F0225</tstamp>
+    </comp>
+    <comp ref="R70">
+      <value>470R</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571FA136</tstamp>
+    </comp>
+    <comp ref="R72">
+      <value>470R</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571FA2B9</tstamp>
+    </comp>
+    <comp ref="R74">
+      <value>470R</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571FA430</tstamp>
+    </comp>
+    <comp ref="R76">
+      <value>470R</value>
+      <footprint>rklib:C0805-RES</footprint>
+      <libsource lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571FA65E</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>GREEN</value>
+      <footprint>LEDs:LED_0805</footprint>
+      <libsource lib="device" part="LED"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571FAA9E</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>GREEN</value>
+      <footprint>LEDs:LED_0805</footprint>
+      <libsource lib="device" part="LED"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571FBC2A</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>RED</value>
+      <footprint>LEDs:LED_0805</footprint>
+      <libsource lib="device" part="LED"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571FBDAC</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>RED</value>
+      <footprint>LEDs:LED_0805</footprint>
+      <libsource lib="device" part="LED"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571FBF2E</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="cmos4000" part="4040">
+      <description>Binary Counter 12 stages (Asynchronous)</description>
+      <docs>cmos4000/MC14040.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">4040</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Q11" type="output"/>
+        <pin num="2" name="Q5" type="output"/>
+        <pin num="3" name="Q4" type="output"/>
+        <pin num="4" name="Q6" type="output"/>
+        <pin num="5" name="Q3" type="output"/>
+        <pin num="6" name="Q2" type="output"/>
+        <pin num="7" name="Q1" type="output"/>
+        <pin num="8" name="VSS" type="power_in"/>
+        <pin num="9" name="Q0" type="output"/>
+        <pin num="10" name="CLK" type="input"/>
+        <pin num="11" name="Reset" type="input"/>
+        <pin num="12" name="Q8" type="output"/>
+        <pin num="13" name="Q7" type="output"/>
+        <pin num="14" name="Q9" type="output"/>
+        <pin num="15" name="Q10" type="output"/>
+        <pin num="16" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="regul" part="7805">
+      <aliases>
+        <alias>LM7805</alias>
+        <alias>LM7812</alias>
+        <alias>78L05</alias>
+      </aliases>
+      <description>Linear Regulator +5V</description>
+      <docs>regulator\lm78xx.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">7805</field>
+      </fields>
+      <pins>
+        <pin num="GND" name="GND" type="input"/>
+        <pin num="VI" name="VI" type="input"/>
+        <pin num="VO" name="VO" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="FreeDSP_SMD-cache" part="ADAU1701">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">ADAU1701</field>
+      </fields>
+      <pins>
+        <pin num="1" name="AGND" type="power_in"/>
+        <pin num="2" name="ADC0" type="input"/>
+        <pin num="3" name="ADC_RES" type="input"/>
+        <pin num="4" name="ADC1" type="input"/>
+        <pin num="5" name="_RESET" type="input"/>
+        <pin num="6" name="SELFBOOT" type="input"/>
+        <pin num="7" name="ADDR0" type="input"/>
+        <pin num="8" name="MP4" type="BiDi"/>
+        <pin num="9" name="MP5" type="BiDi"/>
+        <pin num="10" name="MP1" type="BiDi"/>
+        <pin num="11" name="MP0" type="BiDi"/>
+        <pin num="12" name="DGND" type="power_in"/>
+        <pin num="13" name="DVDD" type="power_in"/>
+        <pin num="14" name="MP7" type="BiDi"/>
+        <pin num="15" name="MP6" type="BiDi"/>
+        <pin num="16" name="MP10" type="BiDi"/>
+        <pin num="17" name="VDRIVE" type="output"/>
+        <pin num="18" name="IOVDD" type="power_in"/>
+        <pin num="19" name="MP11" type="BiDi"/>
+        <pin num="20" name="ADDR1/CDATA/WB" type="input"/>
+        <pin num="21" name="CLATCH/WP" type="BiDi"/>
+        <pin num="22" name="SDA/COUT" type="BiDi"/>
+        <pin num="23" name="SCL/CCLK" type="BiDi"/>
+        <pin num="24" name="DVDD" type="power_in"/>
+        <pin num="25" name="DGND" type="power_in"/>
+        <pin num="26" name="MP9" type="BiDi"/>
+        <pin num="27" name="MP8" type="BiDi"/>
+        <pin num="28" name="MP3" type="BiDi"/>
+        <pin num="29" name="MP2" type="BiDi"/>
+        <pin num="30" name="RSVD" type="unspc"/>
+        <pin num="31" name="OSCO" type="output"/>
+        <pin num="32" name="MCLKI" type="input"/>
+        <pin num="33" name="PGND" type="power_in"/>
+        <pin num="34" name="PVDD" type="power_in"/>
+        <pin num="35" name="PLL_LF" type="output"/>
+        <pin num="36" name="AVDD" type="power_in"/>
+        <pin num="37" name="AGND" type="power_in"/>
+        <pin num="38" name="PLL_MODE0" type="input"/>
+        <pin num="39" name="PLL_MODE1" type="input"/>
+        <pin num="40" name="CM" type="output"/>
+        <pin num="41" name="FILTD" type="output"/>
+        <pin num="42" name="AGND" type="power_in"/>
+        <pin num="43" name="VOUT3" type="output"/>
+        <pin num="44" name="VOUT2" type="output"/>
+        <pin num="45" name="VOUT1" type="output"/>
+        <pin num="46" name="VOUT0" type="output"/>
+        <pin num="47" name="FILTA" type="output"/>
+        <pin num="48" name="AVDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="FreeDSP_SMD-cache" part="C-RESCUE-FreeDSP_SMD">
+      <footprints>
+        <fp>SM*</fp>
+        <fp>C?</fp>
+        <fp>C1-1</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C-RESCUE-FreeDSP_SMD</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="CONN_01X06">
+      <description>Connector 01x06</description>
+      <footprints>
+        <fp>Pin_Header_Straight_1X06</fp>
+        <fp>Pin_Header_Angled_1X06</fp>
+        <fp>Socket_Strip_Straight_1X06</fp>
+        <fp>Socket_Strip_Angled_1X06</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_01X06</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+        <pin num="4" name="P4" type="passive"/>
+        <pin num="5" name="P5" type="passive"/>
+        <pin num="6" name="P6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="CONN_02X02">
+      <description>Connector 02x02</description>
+      <footprints>
+        <fp>Pin_Header_Straight_2X02</fp>
+        <fp>Pin_Header_Angled_2X02</fp>
+        <fp>Socket_Strip_Straight_2X02</fp>
+        <fp>Socket_Strip_Angled_2X02</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_02X02</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+        <pin num="4" name="P4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="CONN_02X10">
+      <description>Connector 02x10</description>
+      <footprints>
+        <fp>Pin_Header_Straight_2X10</fp>
+        <fp>Pin_Header_Angled_2X10</fp>
+        <fp>Socket_Strip_Straight_2X10</fp>
+        <fp>Socket_Strip_Angled_2X10</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_02X10</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+        <pin num="4" name="P4" type="passive"/>
+        <pin num="5" name="P5" type="passive"/>
+        <pin num="6" name="P6" type="passive"/>
+        <pin num="7" name="P7" type="passive"/>
+        <pin num="8" name="P8" type="passive"/>
+        <pin num="9" name="P9" type="passive"/>
+        <pin num="10" name="P10" type="passive"/>
+        <pin num="11" name="P11" type="passive"/>
+        <pin num="12" name="P12" type="passive"/>
+        <pin num="13" name="P13" type="passive"/>
+        <pin num="14" name="P14" type="passive"/>
+        <pin num="15" name="P15" type="passive"/>
+        <pin num="16" name="P16" type="passive"/>
+        <pin num="17" name="P17" type="passive"/>
+        <pin num="18" name="P18" type="passive"/>
+        <pin num="19" name="P19" type="passive"/>
+        <pin num="20" name="P20" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="CONN_02X11">
+      <description>Connector 02x11</description>
+      <footprints>
+        <fp>Pin_Header_Straight_2X11</fp>
+        <fp>Pin_Header_Angled_2X11</fp>
+        <fp>Socket_Strip_Straight_2X11</fp>
+        <fp>Socket_Strip_Angled_2X11</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_02X11</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+        <pin num="4" name="P4" type="passive"/>
+        <pin num="5" name="P5" type="passive"/>
+        <pin num="6" name="P6" type="passive"/>
+        <pin num="7" name="P7" type="passive"/>
+        <pin num="8" name="P8" type="passive"/>
+        <pin num="9" name="P9" type="passive"/>
+        <pin num="10" name="P10" type="passive"/>
+        <pin num="11" name="P11" type="passive"/>
+        <pin num="12" name="P12" type="passive"/>
+        <pin num="13" name="P13" type="passive"/>
+        <pin num="14" name="P14" type="passive"/>
+        <pin num="15" name="P15" type="passive"/>
+        <pin num="16" name="P16" type="passive"/>
+        <pin num="17" name="P17" type="passive"/>
+        <pin num="18" name="P18" type="passive"/>
+        <pin num="19" name="P19" type="passive"/>
+        <pin num="20" name="P20" type="passive"/>
+        <pin num="21" name="P21" type="passive"/>
+        <pin num="22" name="P22" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="CONN_02X13">
+      <description>Connector 02x13</description>
+      <footprints>
+        <fp>Pin_Header_Straight_2X13</fp>
+        <fp>Pin_Header_Angled_2X13</fp>
+        <fp>Socket_Strip_Straight_2X13</fp>
+        <fp>Socket_Strip_Angled_2X13</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_02X13</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+        <pin num="4" name="P4" type="passive"/>
+        <pin num="5" name="P5" type="passive"/>
+        <pin num="6" name="P6" type="passive"/>
+        <pin num="7" name="P7" type="passive"/>
+        <pin num="8" name="P8" type="passive"/>
+        <pin num="9" name="P9" type="passive"/>
+        <pin num="10" name="P10" type="passive"/>
+        <pin num="11" name="P11" type="passive"/>
+        <pin num="12" name="P12" type="passive"/>
+        <pin num="13" name="P13" type="passive"/>
+        <pin num="14" name="P14" type="passive"/>
+        <pin num="15" name="P15" type="passive"/>
+        <pin num="16" name="P16" type="passive"/>
+        <pin num="17" name="P17" type="passive"/>
+        <pin num="18" name="P18" type="passive"/>
+        <pin num="19" name="P19" type="passive"/>
+        <pin num="20" name="P20" type="passive"/>
+        <pin num="21" name="P21" type="passive"/>
+        <pin num="22" name="P22" type="passive"/>
+        <pin num="23" name="P23" type="passive"/>
+        <pin num="24" name="P24" type="passive"/>
+        <pin num="25" name="P25" type="passive"/>
+        <pin num="26" name="P26" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="FreeDSP_SMD-cache" part="CONN_10">
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_10</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+        <pin num="4" name="P4" type="passive"/>
+        <pin num="5" name="P5" type="passive"/>
+        <pin num="6" name="P6" type="passive"/>
+        <pin num="7" name="P7" type="passive"/>
+        <pin num="8" name="P8" type="passive"/>
+        <pin num="9" name="P9" type="passive"/>
+        <pin num="10" name="P10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="FreeDSP_SMD-cache" part="CONN_2">
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="PM" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="FreeDSP_SMD-cache" part="CP">
+      <aliases>
+        <alias>CAPAPOL</alias>
+      </aliases>
+      <footprints>
+        <fp>CP*</fp>
+        <fp>SM*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CP</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="FreeDSP_SMD-cache" part="CRYSTAL">
+      <fields>
+        <field name="Reference">X</field>
+        <field name="Value">CRYSTAL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="FreeDSP_SMD-cache" part="I2CFLASH">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">I2CFLASH</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A0" type="input"/>
+        <pin num="2" name="A1" type="input"/>
+        <pin num="3" name="A2" type="input"/>
+        <pin num="4" name="VSS" type="input"/>
+        <pin num="5" name="SDA" type="input"/>
+        <pin num="6" name="SCL" type="input"/>
+        <pin num="7" name="WP" type="input"/>
+        <pin num="8" name="VCC" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="JUMPER">
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">JUMPER</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="JUMPER3">
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">JUMPER3</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="LED">
+      <footprints>
+        <fp>LED-3MM</fp>
+        <fp>LED-5MM</fp>
+        <fp>LED-10MM</fp>
+        <fp>LED-0603</fp>
+        <fp>LED-0805</fp>
+        <fp>LED-1206</fp>
+        <fp>LEDV</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="FreeDSP_SMD-cache" part="OPAMP4">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">OPAMP4</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Q" type="input"/>
+        <pin num="2" name="E-" type="input"/>
+        <pin num="3" name="E+" type="input"/>
+        <pin num="4" name="V+" type="power_in"/>
+        <pin num="5" name="E+" type="input"/>
+        <pin num="6" name="E-" type="input"/>
+        <pin num="7" name="Q" type="input"/>
+        <pin num="8" name="Q" type="input"/>
+        <pin num="9" name="E-" type="input"/>
+        <pin num="10" name="E+" type="input"/>
+        <pin num="11" name="V-" type="input"/>
+        <pin num="12" name="E+" type="input"/>
+        <pin num="13" name="E-" type="input"/>
+        <pin num="14" name="Q" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="FreeDSP_SMD-cache" part="PNP">
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">PNP</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E" type="passive"/>
+        <pin num="2" name="B" type="input"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="Q_NMOS_SGD">
+      <description>Transistor N-MOSFET (general)</description>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_NMOS_SGD</field>
+      </fields>
+      <pins>
+        <pin num="1" name="S" type="passive"/>
+        <pin num="2" name="G" type="input"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="FreeDSP_SMD-cache" part="R-RESCUE-FreeDSP_SMD">
+      <footprints>
+        <fp>R?</fp>
+        <fp>SM0603</fp>
+        <fp>SM0805</fp>
+        <fp>R?-*</fp>
+        <fp>SM1206</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R-RESCUE-FreeDSP_SMD</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="FreeDSP_SMD-cache" part="TC7SZ08">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">TC7SZ08</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="A" type="input"/>
+        <pin num="3" name="GND" type="input"/>
+        <pin num="4" name="Y" type="input"/>
+        <pin num="5" name="Vcc" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="TEST_1P">
+      <description>point</description>
+      <fields>
+        <field name="Reference">W</field>
+        <field name="Value">TEST_1P</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="device">
+      <uri>/Library/Application Support/kicad/library/device.lib</uri>
+    </library>
+    <library logical="conn">
+      <uri>/Library/Application Support/kicad/library/conn.lib</uri>
+    </library>
+    <library logical="regul">
+      <uri>/Library/Application Support/kicad/library/regul.lib</uri>
+    </library>
+    <library logical="cmos4000">
+      <uri>/Library/Application Support/kicad/library/cmos4000.lib</uri>
+    </library>
+    <library logical="FreeDSP_SMD-cache">
+      <uri>/Users/rkn/Documents/KiCAD/projekte/freeDSP-CLASSIC-BAL-SMD-A/SOURCES/FreeDSP_SMD-cache.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/IFCLK">
+      <node ref="P9" pin="11"/>
+    </net>
+    <net code="2" name="/RDY0">
+      <node ref="P9" pin="8"/>
+    </net>
+    <net code="3" name="/RDY1">
+      <node ref="P9" pin="7"/>
+    </net>
+    <net code="4" name="/PD7">
+      <node ref="P9" pin="4"/>
+    </net>
+    <net code="5" name="/PD5">
+      <node ref="P9" pin="2"/>
+    </net>
+    <net code="6" name="/PD6">
+      <node ref="P9" pin="1"/>
+    </net>
+    <net code="7" name="/USB_PWR_ON">
+      <node ref="R71" pin="2"/>
+      <node ref="R75" pin="1"/>
+      <node ref="Q3" pin="2"/>
+      <node ref="Q2" pin="2"/>
+      <node ref="R73" pin="2"/>
+      <node ref="P10" pin="19"/>
+    </net>
+    <net code="8" name="/PB7">
+      <node ref="P10" pin="18"/>
+    </net>
+    <net code="9" name="/PB6">
+      <node ref="P10" pin="17"/>
+    </net>
+    <net code="10" name="/CTL1">
+      <node ref="P10" pin="16"/>
+    </net>
+    <net code="11" name="/CTL0">
+      <node ref="P10" pin="15"/>
+    </net>
+    <net code="12" name="/USB_CDATA">
+      <node ref="P10" pin="14"/>
+    </net>
+    <net code="13" name="/CTL2">
+      <node ref="P10" pin="13"/>
+    </net>
+    <net code="14" name="/~USB_CLATCH1">
+      <node ref="P10" pin="12"/>
+    </net>
+    <net code="15" name="/USB_COUT">
+      <node ref="P10" pin="11"/>
+    </net>
+    <net code="16" name="/PB5">
+      <node ref="P10" pin="20"/>
+    </net>
+    <net code="17" name="/PA4">
+      <node ref="P10" pin="10"/>
+    </net>
+    <net code="18" name="/PA3">
+      <node ref="P10" pin="9"/>
+    </net>
+    <net code="19" name="/PA6">
+      <node ref="P10" pin="8"/>
+    </net>
+    <net code="20" name="/PD0">
+      <node ref="P10" pin="6"/>
+    </net>
+    <net code="21" name="/PD2">
+      <node ref="P10" pin="4"/>
+    </net>
+    <net code="22" name="/PD4">
+      <node ref="P10" pin="2"/>
+    </net>
+    <net code="23" name="/USB_LED2">
+      <node ref="R72" pin="2"/>
+      <node ref="P9" pin="18"/>
+    </net>
+    <net code="24" name="/USB_LED3">
+      <node ref="R74" pin="2"/>
+      <node ref="P9" pin="17"/>
+    </net>
+    <net code="25" name="/USB_LED1">
+      <node ref="R70" pin="2"/>
+      <node ref="P9" pin="15"/>
+    </net>
+    <net code="26" name="/USB_SCL">
+      <node ref="Q2" pin="1"/>
+      <node ref="P9" pin="14"/>
+      <node ref="R71" pin="1"/>
+    </net>
+    <net code="27" name="/USB_SDA">
+      <node ref="Q3" pin="1"/>
+      <node ref="R75" pin="2"/>
+      <node ref="P9" pin="13"/>
+    </net>
+    <net code="28" name="/PA5">
+      <node ref="P10" pin="7"/>
+    </net>
+    <net code="29" name="/USB_CCLK">
+      <node ref="P10" pin="5"/>
+    </net>
+    <net code="30" name="/PD1">
+      <node ref="P10" pin="3"/>
+    </net>
+    <net code="31" name="/PD3">
+      <node ref="P10" pin="1"/>
+    </net>
+    <net code="32" name="_RESET">
+      <node ref="P4" pin="6"/>
+      <node ref="R9" pin="1"/>
+      <node ref="R6" pin="2"/>
+      <node ref="C18" pin="1"/>
+      <node ref="P1" pin="3"/>
+      <node ref="IC2" pin="5"/>
+    </net>
+    <net code="33" name="Net-(P9-Pad16)">
+      <node ref="R6" pin="1"/>
+      <node ref="P9" pin="16"/>
+    </net>
+    <net code="34" name="Net-(IC2-Pad3)">
+      <node ref="R12" pin="2"/>
+      <node ref="IC2" pin="3"/>
+    </net>
+    <net code="35" name="Net-(D3-Pad1)">
+      <node ref="D3" pin="1"/>
+      <node ref="R74" pin="1"/>
+    </net>
+    <net code="36" name="Net-(D2-Pad1)">
+      <node ref="R72" pin="1"/>
+      <node ref="D2" pin="1"/>
+    </net>
+    <net code="37" name="Net-(D1-Pad1)">
+      <node ref="R70" pin="1"/>
+      <node ref="D1" pin="1"/>
+    </net>
+    <net code="38" name="Net-(D4-Pad1)">
+      <node ref="D4" pin="1"/>
+      <node ref="R76" pin="1"/>
+    </net>
+    <net code="39" name="Net-(C28-Pad2)">
+      <node ref="C28" pin="2"/>
+      <node ref="R18" pin="2"/>
+      <node ref="R15" pin="1"/>
+    </net>
+    <net code="40" name="Net-(C30-Pad2)">
+      <node ref="IC2" pin="35"/>
+      <node ref="C30" pin="2"/>
+      <node ref="R20" pin="2"/>
+    </net>
+    <net code="41" name="Net-(C24-Pad1)">
+      <node ref="C24" pin="1"/>
+      <node ref="IC2" pin="41"/>
+    </net>
+    <net code="42" name="Net-(C21-Pad1)">
+      <node ref="IC2" pin="13"/>
+      <node ref="C23" pin="1"/>
+      <node ref="C21" pin="1"/>
+      <node ref="IC2" pin="24"/>
+      <node ref="Q1" pin="3"/>
+    </net>
+    <net code="43" name="Net-(IC2-Pad17)">
+      <node ref="IC2" pin="17"/>
+      <node ref="R17" pin="1"/>
+      <node ref="Q1" pin="2"/>
+    </net>
+    <net code="44" name="SCL">
+      <node ref="P1" pin="15"/>
+      <node ref="IC3" pin="6"/>
+      <node ref="P4" pin="1"/>
+      <node ref="IC2" pin="23"/>
+      <node ref="Q2" pin="3"/>
+      <node ref="R25" pin="1"/>
+    </net>
+    <net code="45" name="SDA">
+      <node ref="IC2" pin="22"/>
+      <node ref="P1" pin="12"/>
+      <node ref="Q3" pin="3"/>
+      <node ref="R24" pin="1"/>
+      <node ref="P4" pin="3"/>
+      <node ref="IC3" pin="5"/>
+    </net>
+    <net code="46" name="/OUT3-">
+      <node ref="R62" pin="1"/>
+      <node ref="P8" pin="1"/>
+    </net>
+    <net code="47" name="Net-(C59-Pad1)">
+      <node ref="C59" pin="1"/>
+      <node ref="R61" pin="1"/>
+      <node ref="R60" pin="2"/>
+    </net>
+    <net code="48" name="/OUT3+">
+      <node ref="R60" pin="1"/>
+      <node ref="P8" pin="2"/>
+    </net>
+    <net code="49" name="Net-(C58-Pad2)">
+      <node ref="C58" pin="2"/>
+      <node ref="R59" pin="1"/>
+      <node ref="R58" pin="2"/>
+      <node ref="IC6" pin="13"/>
+    </net>
+    <net code="50" name="Net-(C58-Pad1)">
+      <node ref="C58" pin="1"/>
+      <node ref="R58" pin="1"/>
+      <node ref="IC6" pin="14"/>
+      <node ref="C59" pin="2"/>
+    </net>
+    <net code="51" name="/OUT4+">
+      <node ref="R66" pin="1"/>
+      <node ref="P8" pin="5"/>
+    </net>
+    <net code="52" name="Net-(C62-Pad1)">
+      <node ref="R67" pin="1"/>
+      <node ref="C62" pin="1"/>
+      <node ref="R66" pin="2"/>
+    </net>
+    <net code="53" name="Net-(IC6-Pad3)">
+      <node ref="IC6" pin="3"/>
+      <node ref="R69" pin="1"/>
+      <node ref="R68" pin="2"/>
+    </net>
+    <net code="54" name="Net-(C61-Pad2)">
+      <node ref="C61" pin="2"/>
+      <node ref="R64" pin="2"/>
+      <node ref="IC6" pin="2"/>
+      <node ref="R65" pin="1"/>
+    </net>
+    <net code="55" name="Net-(C61-Pad1)">
+      <node ref="R64" pin="1"/>
+      <node ref="C61" pin="1"/>
+      <node ref="IC6" pin="1"/>
+      <node ref="C62" pin="2"/>
+    </net>
+    <net code="56" name="Net-(IC6-Pad12)">
+      <node ref="R63" pin="1"/>
+      <node ref="R62" pin="2"/>
+      <node ref="IC6" pin="12"/>
+    </net>
+    <net code="57" name="Net-(C56-Pad2)">
+      <node ref="R53" pin="1"/>
+      <node ref="R52" pin="2"/>
+      <node ref="IC1" pin="2"/>
+      <node ref="C56" pin="2"/>
+    </net>
+    <net code="58" name="Net-(C56-Pad1)">
+      <node ref="IC1" pin="1"/>
+      <node ref="C57" pin="2"/>
+      <node ref="R52" pin="1"/>
+      <node ref="C56" pin="1"/>
+    </net>
+    <net code="59" name="Net-(C5-Pad1)">
+      <node ref="IC6" pin="7"/>
+      <node ref="R7" pin="1"/>
+      <node ref="IC6" pin="6"/>
+      <node ref="C5" pin="1"/>
+    </net>
+    <net code="60" name="/OUT1-">
+      <node ref="R50" pin="1"/>
+      <node ref="P7" pin="1"/>
+    </net>
+    <net code="61" name="Net-(C55-Pad1)">
+      <node ref="R49" pin="1"/>
+      <node ref="R48" pin="2"/>
+      <node ref="C55" pin="1"/>
+    </net>
+    <net code="62" name="/OUT1+">
+      <node ref="P7" pin="2"/>
+      <node ref="R48" pin="1"/>
+    </net>
+    <net code="63" name="/OUT2-">
+      <node ref="P7" pin="4"/>
+      <node ref="R56" pin="1"/>
+    </net>
+    <net code="64" name="Net-(C57-Pad1)">
+      <node ref="R54" pin="2"/>
+      <node ref="C57" pin="1"/>
+      <node ref="R55" pin="1"/>
+    </net>
+    <net code="65" name="/OUT2+">
+      <node ref="P7" pin="5"/>
+      <node ref="R54" pin="1"/>
+    </net>
+    <net code="66" name="Net-(IC1-Pad3)">
+      <node ref="R57" pin="1"/>
+      <node ref="IC1" pin="3"/>
+      <node ref="R56" pin="2"/>
+    </net>
+    <net code="67" name="/IN2">
+      <node ref="R14" pin="1"/>
+      <node ref="IC5" pin="14"/>
+      <node ref="C48" pin="1"/>
+      <node ref="R37" pin="1"/>
+    </net>
+    <net code="68" name="/IN1">
+      <node ref="R13" pin="1"/>
+      <node ref="C41" pin="1"/>
+      <node ref="R28" pin="1"/>
+      <node ref="IC5" pin="8"/>
+    </net>
+    <net code="69" name="/USB_CLK">
+      <node ref="P9" pin="6"/>
+    </net>
+    <net code="70" name="/OUT4-">
+      <node ref="P8" pin="4"/>
+      <node ref="R68" pin="1"/>
+    </net>
+    <net code="71" name="Net-(C54-Pad1)">
+      <node ref="C55" pin="2"/>
+      <node ref="C54" pin="1"/>
+      <node ref="IC1" pin="14"/>
+      <node ref="R46" pin="1"/>
+    </net>
+    <net code="72" name="Net-(C54-Pad2)">
+      <node ref="IC1" pin="13"/>
+      <node ref="R46" pin="2"/>
+      <node ref="C54" pin="2"/>
+      <node ref="R47" pin="1"/>
+    </net>
+    <net code="73" name="Net-(C51-Pad1)">
+      <node ref="R44" pin="2"/>
+      <node ref="R42" pin="2"/>
+      <node ref="C51" pin="1"/>
+    </net>
+    <net code="74" name="Net-(IC1-Pad12)">
+      <node ref="R50" pin="2"/>
+      <node ref="R51" pin="1"/>
+      <node ref="IC1" pin="12"/>
+    </net>
+    <net code="75" name="Net-(IC5-Pad6)">
+      <node ref="IC5" pin="7"/>
+      <node ref="IC5" pin="6"/>
+    </net>
+    <net code="76" name="Net-(IC5-Pad1)">
+      <node ref="IC5" pin="2"/>
+      <node ref="IC5" pin="1"/>
+    </net>
+    <net code="78" name="/OUT1">
+      <node ref="R26" pin="1"/>
+      <node ref="C36" pin="1"/>
+      <node ref="R22" pin="2"/>
+      <node ref="R47" pin="2"/>
+    </net>
+    <net code="79" name="/OUT2">
+      <node ref="R23" pin="2"/>
+      <node ref="R27" pin="1"/>
+      <node ref="C37" pin="1"/>
+      <node ref="R53" pin="2"/>
+    </net>
+    <net code="80" name="/OUT4">
+      <node ref="R10" pin="1"/>
+      <node ref="R7" pin="2"/>
+      <node ref="C19" pin="1"/>
+      <node ref="R65" pin="2"/>
+    </net>
+    <net code="81" name="/OUT3">
+      <node ref="C20" pin="1"/>
+      <node ref="R8" pin="2"/>
+      <node ref="R59" pin="2"/>
+      <node ref="R11" pin="1"/>
+    </net>
+    <net code="82" name="Net-(C33-Pad1)">
+      <node ref="R21" pin="2"/>
+      <node ref="C33" pin="1"/>
+      <node ref="X1" pin="1"/>
+    </net>
+    <net code="83" name="+5V">
+      <node ref="JP1" pin="2"/>
+      <node ref="C17" pin="1"/>
+      <node ref="U1" pin="VI"/>
+      <node ref="P4" pin="4"/>
+      <node ref="U3" pin="VO"/>
+      <node ref="C4" pin="1"/>
+    </net>
+    <net code="84" name="Net-(C14-Pad1)">
+      <node ref="U3" pin="VI"/>
+      <node ref="C14" pin="1"/>
+      <node ref="P2" pin="2"/>
+    </net>
+    <net code="85" name="Net-(C29-Pad2)">
+      <node ref="R16" pin="1"/>
+      <node ref="R19" pin="2"/>
+      <node ref="C29" pin="2"/>
+    </net>
+    <net code="86" name="Net-(C6-Pad2)">
+      <node ref="R2" pin="1"/>
+      <node ref="R4" pin="2"/>
+      <node ref="C6" pin="2"/>
+    </net>
+    <net code="87" name="Net-(C6-Pad1)">
+      <node ref="R8" pin="1"/>
+      <node ref="IC6" pin="8"/>
+      <node ref="IC6" pin="9"/>
+      <node ref="C6" pin="1"/>
+    </net>
+    <net code="88" name="Net-(C5-Pad2)">
+      <node ref="R1" pin="1"/>
+      <node ref="R3" pin="2"/>
+      <node ref="C5" pin="2"/>
+    </net>
+    <net code="89" name="Net-(C49-Pad2)">
+      <node ref="R39" pin="1"/>
+      <node ref="C50" pin="2"/>
+      <node ref="R38" pin="2"/>
+      <node ref="C49" pin="2"/>
+    </net>
+    <net code="90" name="Net-(C44-Pad1)">
+      <node ref="R35" pin="2"/>
+      <node ref="R33" pin="2"/>
+      <node ref="C44" pin="1"/>
+    </net>
+    <net code="91" name="Net-(C47-Pad2)">
+      <node ref="R36" pin="2"/>
+      <node ref="IC5" pin="10"/>
+      <node ref="C47" pin="2"/>
+      <node ref="JP2" pin="2"/>
+    </net>
+    <net code="92" name="Net-(C41-Pad2)">
+      <node ref="IC5" pin="9"/>
+      <node ref="R31" pin="1"/>
+      <node ref="R28" pin="2"/>
+      <node ref="C41" pin="2"/>
+    </net>
+    <net code="93" name="Net-(C53-Pad2)">
+      <node ref="R45" pin="2"/>
+      <node ref="IC5" pin="12"/>
+      <node ref="C53" pin="2"/>
+      <node ref="JP3" pin="2"/>
+    </net>
+    <net code="94" name="Net-(C48-Pad2)">
+      <node ref="R37" pin="2"/>
+      <node ref="C48" pin="2"/>
+      <node ref="IC5" pin="13"/>
+      <node ref="R40" pin="1"/>
+    </net>
+    <net code="95" name="Net-(C51-Pad2)">
+      <node ref="C51" pin="2"/>
+      <node ref="C52" pin="2"/>
+      <node ref="R43" pin="2"/>
+      <node ref="R41" pin="1"/>
+    </net>
+    <net code="96" name="Net-(IC2-Pad32)">
+      <node ref="P3" pin="3"/>
+      <node ref="IC2" pin="32"/>
+    </net>
+    <net code="97" name="Net-(C44-Pad2)">
+      <node ref="C44" pin="2"/>
+      <node ref="R34" pin="2"/>
+      <node ref="C46" pin="2"/>
+      <node ref="R32" pin="1"/>
+    </net>
+    <net code="98" name="Net-(C42-Pad2)">
+      <node ref="C43" pin="2"/>
+      <node ref="R29" pin="2"/>
+      <node ref="C42" pin="2"/>
+      <node ref="R30" pin="1"/>
+    </net>
+    <net code="99" name="Net-(IC4-Pad4)">
+      <node ref="IC4" pin="4"/>
+      <node ref="P5" pin="1"/>
+      <node ref="U2" pin="10"/>
+    </net>
+    <net code="100" name="/DAC2">
+      <node ref="IC2" pin="45"/>
+      <node ref="R2" pin="2"/>
+    </net>
+    <net code="101" name="Net-(C3-Pad2)">
+      <node ref="IC6" pin="10"/>
+      <node ref="C3" pin="2"/>
+      <node ref="R4" pin="1"/>
+    </net>
+    <net code="102" name="/DAC0">
+      <node ref="R15" pin="2"/>
+      <node ref="IC2" pin="43"/>
+    </net>
+    <net code="103" name="Net-(C26-Pad2)">
+      <node ref="R18" pin="1"/>
+      <node ref="C26" pin="2"/>
+      <node ref="IC1" pin="10"/>
+    </net>
+    <net code="104" name="/DAC3">
+      <node ref="IC2" pin="46"/>
+      <node ref="R1" pin="2"/>
+    </net>
+    <net code="105" name="Net-(C2-Pad2)">
+      <node ref="R3" pin="1"/>
+      <node ref="C2" pin="2"/>
+      <node ref="IC6" pin="5"/>
+    </net>
+    <net code="106" name="/DAC1">
+      <node ref="IC2" pin="44"/>
+      <node ref="R16" pin="2"/>
+    </net>
+    <net code="107" name="Net-(C27-Pad2)">
+      <node ref="IC1" pin="5"/>
+      <node ref="R19" pin="1"/>
+      <node ref="C27" pin="2"/>
+    </net>
+    <net code="108" name="Net-(P4-Pad5)">
+      <node ref="P4" pin="5"/>
+    </net>
+    <net code="109" name="Net-(P4-Pad2)">
+      <node ref="P4" pin="2"/>
+    </net>
+    <net code="110" name="Net-(P4-Pad9)">
+      <node ref="P4" pin="9"/>
+    </net>
+    <net code="111" name="Net-(P4-Pad8)">
+      <node ref="P4" pin="8"/>
+    </net>
+    <net code="112" name="Net-(P4-Pad7)">
+      <node ref="P4" pin="7"/>
+    </net>
+    <net code="113" name="Net-(C28-Pad1)">
+      <node ref="IC1" pin="8"/>
+      <node ref="IC1" pin="9"/>
+      <node ref="R22" pin="1"/>
+      <node ref="C28" pin="1"/>
+    </net>
+    <net code="114" name="Net-(C29-Pad1)">
+      <node ref="C29" pin="1"/>
+      <node ref="IC1" pin="7"/>
+      <node ref="R23" pin="1"/>
+      <node ref="IC1" pin="6"/>
+    </net>
+    <net code="115" name="MP2">
+      <node ref="IC2" pin="29"/>
+      <node ref="P1" pin="18"/>
+    </net>
+    <net code="116" name="MP11">
+      <node ref="IC2" pin="19"/>
+      <node ref="P1" pin="11"/>
+    </net>
+    <net code="117" name="MP3">
+      <node ref="P1" pin="16"/>
+      <node ref="IC2" pin="28"/>
+    </net>
+    <net code="118" name="Net-(C22-Pad1)">
+      <node ref="IC2" pin="47"/>
+      <node ref="C22" pin="1"/>
+    </net>
+    <net code="119" name="Net-(IC2-Pad4)">
+      <node ref="R14" pin="2"/>
+      <node ref="IC2" pin="4"/>
+    </net>
+    <net code="120" name="Net-(IC2-Pad2)">
+      <node ref="IC2" pin="2"/>
+      <node ref="R13" pin="2"/>
+    </net>
+    <net code="121" name="/WP">
+      <node ref="IC3" pin="7"/>
+      <node ref="IC2" pin="21"/>
+    </net>
+    <net code="122" name="MP0">
+      <node ref="IC2" pin="11"/>
+      <node ref="P1" pin="7"/>
+    </net>
+    <net code="123" name="Net-(C25-Pad1)">
+      <node ref="IC2" pin="40"/>
+      <node ref="C25" pin="1"/>
+    </net>
+    <net code="124" name="WB">
+      <node ref="P1" pin="13"/>
+      <node ref="IC2" pin="20"/>
+    </net>
+    <net code="125" name="MP1">
+      <node ref="P1" pin="6"/>
+      <node ref="IC2" pin="10"/>
+    </net>
+    <net code="126" name="MP5">
+      <node ref="P1" pin="5"/>
+      <node ref="IC2" pin="9"/>
+    </net>
+    <net code="127" name="MP4">
+      <node ref="P1" pin="4"/>
+      <node ref="IC2" pin="8"/>
+    </net>
+    <net code="128" name="MP8">
+      <node ref="P1" pin="17"/>
+      <node ref="IC2" pin="27"/>
+    </net>
+    <net code="129" name="MP9">
+      <node ref="P1" pin="14"/>
+      <node ref="IC2" pin="26"/>
+    </net>
+    <net code="130" name="MP10">
+      <node ref="P1" pin="10"/>
+      <node ref="IC2" pin="16"/>
+    </net>
+    <net code="131" name="MP6">
+      <node ref="P1" pin="9"/>
+      <node ref="IC2" pin="15"/>
+    </net>
+    <net code="132" name="MP7">
+      <node ref="IC2" pin="14"/>
+      <node ref="P1" pin="8"/>
+    </net>
+    <net code="133" name="Net-(C32-Pad1)">
+      <node ref="X1" pin="2"/>
+      <node ref="C32" pin="1"/>
+      <node ref="P3" pin="1"/>
+    </net>
+    <net code="134" name="Net-(C31-Pad2)">
+      <node ref="R20" pin="1"/>
+      <node ref="C31" pin="2"/>
+    </net>
+    <net code="135" name="Net-(C43-Pad1)">
+      <node ref="R31" pin="2"/>
+      <node ref="C43" pin="1"/>
+    </net>
+    <net code="136" name="/IN1+">
+      <node ref="P6" pin="2"/>
+      <node ref="R32" pin="2"/>
+    </net>
+    <net code="137" name="/IN1-">
+      <node ref="P6" pin="1"/>
+      <node ref="R30" pin="2"/>
+    </net>
+    <net code="138" name="Net-(JP2-Pad1)">
+      <node ref="R35" pin="1"/>
+      <node ref="JP2" pin="1"/>
+    </net>
+    <net code="139" name="Net-(JP2-Pad3)">
+      <node ref="R33" pin="1"/>
+      <node ref="JP2" pin="3"/>
+    </net>
+    <net code="140" name="/IN2+">
+      <node ref="P6" pin="5"/>
+      <node ref="R41" pin="2"/>
+    </net>
+    <net code="141" name="/IN2-">
+      <node ref="R39" pin="2"/>
+      <node ref="P6" pin="4"/>
+    </net>
+    <net code="142" name="Net-(JP3-Pad1)">
+      <node ref="JP3" pin="1"/>
+      <node ref="R44" pin="1"/>
+    </net>
+    <net code="143" name="Net-(JP3-Pad3)">
+      <node ref="R42" pin="1"/>
+      <node ref="JP3" pin="3"/>
+    </net>
+    <net code="144" name="Net-(C50-Pad1)">
+      <node ref="R40" pin="2"/>
+      <node ref="C50" pin="1"/>
+    </net>
+    <net code="145" name="MCLK">
+      <node ref="P1" pin="19"/>
+      <node ref="P3" pin="4"/>
+    </net>
+    <net code="146" name="Net-(P5-Pad3)">
+      <node ref="U2" pin="9"/>
+      <node ref="P5" pin="3"/>
+    </net>
+    <net code="147" name="Net-(P5-Pad5)">
+      <node ref="P5" pin="5"/>
+      <node ref="U2" pin="7"/>
+    </net>
+    <net code="148" name="Net-(P5-Pad7)">
+      <node ref="P5" pin="7"/>
+      <node ref="U2" pin="6"/>
+    </net>
+    <net code="149" name="Net-(P5-Pad9)">
+      <node ref="P5" pin="9"/>
+      <node ref="U2" pin="5"/>
+    </net>
+    <net code="150" name="Net-(P5-Pad15)">
+      <node ref="P5" pin="15"/>
+      <node ref="U2" pin="4"/>
+    </net>
+    <net code="151" name="Net-(P5-Pad11)">
+      <node ref="P5" pin="11"/>
+      <node ref="U2" pin="3"/>
+    </net>
+    <net code="152" name="Net-(P5-Pad13)">
+      <node ref="P5" pin="13"/>
+      <node ref="U2" pin="2"/>
+    </net>
+    <net code="153" name="Net-(P5-Pad25)">
+      <node ref="U2" pin="1"/>
+      <node ref="P5" pin="25"/>
+    </net>
+    <net code="154" name="3V3">
+      <node ref="R25" pin="2"/>
+      <node ref="R24" pin="2"/>
+      <node ref="U1" pin="VO"/>
+      <node ref="D4" pin="2"/>
+      <node ref="U2" pin="16"/>
+      <node ref="IC2" pin="36"/>
+      <node ref="P1" pin="1"/>
+      <node ref="P1" pin="2"/>
+      <node ref="C38" pin="1"/>
+      <node ref="IC2" pin="34"/>
+      <node ref="IC6" pin="4"/>
+      <node ref="C60" pin="2"/>
+      <node ref="C11" pin="1"/>
+      <node ref="Q1" pin="1"/>
+      <node ref="R17" pin="2"/>
+      <node ref="C31" pin="1"/>
+      <node ref="C30" pin="1"/>
+      <node ref="IC3" pin="8"/>
+      <node ref="C9" pin="1"/>
+      <node ref="P9" pin="19"/>
+      <node ref="IC2" pin="39"/>
+      <node ref="IC2" pin="48"/>
+      <node ref="IC4" pin="5"/>
+      <node ref="IC2" pin="18"/>
+      <node ref="R9" pin="2"/>
+      <node ref="C1" pin="1"/>
+      <node ref="C39" pin="2"/>
+      <node ref="C45" pin="2"/>
+      <node ref="C8" pin="1"/>
+      <node ref="IC5" pin="4"/>
+      <node ref="C40" pin="1"/>
+      <node ref="D1" pin="2"/>
+      <node ref="D2" pin="2"/>
+      <node ref="IC2" pin="6"/>
+      <node ref="D3" pin="2"/>
+      <node ref="IC1" pin="4"/>
+      <node ref="P9" pin="20"/>
+    </net>
+    <net code="155" name="GND">
+      <node ref="R49" pin="2"/>
+      <node ref="R69" pin="2"/>
+      <node ref="R43" pin="1"/>
+      <node ref="R38" pin="1"/>
+      <node ref="C52" pin="1"/>
+      <node ref="R67" pin="2"/>
+      <node ref="IC5" pin="11"/>
+      <node ref="C49" pin="1"/>
+      <node ref="R11" pin="2"/>
+      <node ref="R63" pin="2"/>
+      <node ref="R57" pin="2"/>
+      <node ref="C20" pin="2"/>
+      <node ref="B2" pin="1"/>
+      <node ref="R55" pin="2"/>
+      <node ref="B3" pin="1"/>
+      <node ref="R51" pin="2"/>
+      <node ref="B4" pin="1"/>
+      <node ref="C17" pin="2"/>
+      <node ref="C14" pin="2"/>
+      <node ref="C40" pin="2"/>
+      <node ref="C38" pin="2"/>
+      <node ref="IC4" pin="3"/>
+      <node ref="P9" pin="12"/>
+      <node ref="C1" pin="2"/>
+      <node ref="U3" pin="GND"/>
+      <node ref="IC5" pin="5"/>
+      <node ref="R73" pin="1"/>
+      <node ref="R61" pin="2"/>
+      <node ref="R45" pin="1"/>
+      <node ref="C53" pin="1"/>
+      <node ref="U1" pin="GND"/>
+      <node ref="U2" pin="8"/>
+      <node ref="R76" pin="2"/>
+      <node ref="U2" pin="11"/>
+      <node ref="P1" pin="21"/>
+      <node ref="P1" pin="22"/>
+      <node ref="C3" pin="1"/>
+      <node ref="R10" pin="2"/>
+      <node ref="C19" pin="2"/>
+      <node ref="IC2" pin="42"/>
+      <node ref="IC2" pin="33"/>
+      <node ref="C18" pin="2"/>
+      <node ref="IC2" pin="25"/>
+      <node ref="IC2" pin="1"/>
+      <node ref="P4" pin="10"/>
+      <node ref="R26" pin="2"/>
+      <node ref="IC2" pin="7"/>
+      <node ref="C36" pin="2"/>
+      <node ref="C25" pin="2"/>
+      <node ref="IC3" pin="4"/>
+      <node ref="C24" pin="2"/>
+      <node ref="IC3" pin="3"/>
+      <node ref="C22" pin="2"/>
+      <node ref="IC3" pin="2"/>
+      <node ref="IC3" pin="1"/>
+      <node ref="C33" pin="2"/>
+      <node ref="C32" pin="2"/>
+      <node ref="IC2" pin="38"/>
+      <node ref="C4" pin="2"/>
+      <node ref="C8" pin="2"/>
+      <node ref="C39" pin="1"/>
+      <node ref="IC2" pin="30"/>
+      <node ref="IC2" pin="12"/>
+      <node ref="R27" pin="2"/>
+      <node ref="IC1" pin="11"/>
+      <node ref="R12" pin="1"/>
+      <node ref="C37" pin="2"/>
+      <node ref="IC2" pin="37"/>
+      <node ref="P6" pin="3"/>
+      <node ref="C47" pin="1"/>
+      <node ref="P7" pin="3"/>
+      <node ref="C2" pin="1"/>
+      <node ref="C60" pin="1"/>
+      <node ref="C45" pin="1"/>
+      <node ref="P6" pin="6"/>
+      <node ref="B1" pin="1"/>
+      <node ref="C26" pin="1"/>
+      <node ref="P9" pin="10"/>
+      <node ref="C42" pin="1"/>
+      <node ref="P9" pin="9"/>
+      <node ref="C46" pin="1"/>
+      <node ref="P9" pin="5"/>
+      <node ref="R29" pin="1"/>
+      <node ref="P9" pin="3"/>
+      <node ref="R34" pin="1"/>
+      <node ref="C27" pin="1"/>
+      <node ref="P2" pin="1"/>
+      <node ref="C11" pin="2"/>
+      <node ref="P7" pin="6"/>
+      <node ref="C9" pin="2"/>
+      <node ref="IC5" pin="3"/>
+      <node ref="R36" pin="1"/>
+      <node ref="P8" pin="6"/>
+      <node ref="C21" pin="2"/>
+      <node ref="IC6" pin="11"/>
+      <node ref="P8" pin="3"/>
+      <node ref="C23" pin="2"/>
+    </net>
+    <net code="156" name="Net-(JP1-Pad1)">
+      <node ref="JP1" pin="1"/>
+      <node ref="P1" pin="20"/>
+    </net>
+    <net code="157" name="Net-(P5-Pad19)">
+      <node ref="U2" pin="12"/>
+      <node ref="P5" pin="19"/>
+    </net>
+    <net code="158" name="Net-(IC2-Pad31)">
+      <node ref="R21" pin="1"/>
+      <node ref="IC4" pin="1"/>
+      <node ref="IC2" pin="31"/>
+      <node ref="IC4" pin="2"/>
+    </net>
+    <net code="159" name="Net-(P5-Pad23)">
+      <node ref="U2" pin="15"/>
+      <node ref="P5" pin="23"/>
+    </net>
+    <net code="160" name="Net-(P5-Pad21)">
+      <node ref="P5" pin="21"/>
+      <node ref="U2" pin="14"/>
+    </net>
+    <net code="161" name="Net-(P5-Pad17)">
+      <node ref="P5" pin="17"/>
+      <node ref="U2" pin="13"/>
+    </net>
+    <net code="162" name="Net-(P3-Pad2)">
+      <node ref="P5" pin="6"/>
+      <node ref="P5" pin="8"/>
+      <node ref="P5" pin="24"/>
+      <node ref="P5" pin="14"/>
+      <node ref="P5" pin="22"/>
+      <node ref="P5" pin="12"/>
+      <node ref="P5" pin="10"/>
+      <node ref="P5" pin="20"/>
+      <node ref="P5" pin="18"/>
+      <node ref="P5" pin="4"/>
+      <node ref="P5" pin="2"/>
+      <node ref="P3" pin="2"/>
+      <node ref="P5" pin="26"/>
+      <node ref="P5" pin="16"/>
+    </net>
+  </nets>
+</export>
