@@ -270,8 +270,6 @@ F 3 "" H 2100 4300 60  0000 C CNN
 $EndComp
 Text Label 2200 4150 3    60   ~ 0
 MP11
-Text Label 2300 4150 3    60   ~ 0
-WB
 Text Label 2400 4150 3    60   ~ 0
 WP
 Text Label 2500 4150 3    60   ~ 0
@@ -4479,5 +4477,16 @@ F 2 "rklib:MM-12G" H 17000 1100 50  0001 C CNN
 F 3 "" H 17000 1100 50  0000 C CNN
 	1    17000 1100
 	-1   0    0    -1  
+$EndComp
+$Comp
+L GND-RESCUE-FreeDSP_SMD #PWR?
+U 1 1 5744CA0A
+P 2300 4150
+F 0 "#PWR?" H 2300 4150 30  0001 C CNN
+F 1 "GND" H 2300 4080 30  0001 C CNN
+F 2 "" H 2300 4150 60  0000 C CNN
+F 3 "" H 2300 4150 60  0000 C CNN
+	1    2300 4150
+	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
