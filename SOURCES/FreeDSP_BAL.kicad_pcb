@@ -6847,7 +6847,7 @@
   (module rklib:MM-12G (layer F.Cu) (tedit 5743FF78) (tstamp 57441010)
     (at 195.5 101.115 270)
     (path /57441678)
-    (fp_text reference P12 (at -1.905 0.5 270) (layer F.SilkS)
+    (fp_text reference P12 (at 0.085 -3.7 270) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value MM-12G (at -1.905 -0.5 270) (layer F.Fab)
