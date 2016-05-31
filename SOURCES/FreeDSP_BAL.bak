@@ -36,7 +36,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "freeDSP CLASSIC BALANCED"
-Date "31 May 2016"
+Date "3 may 2015"
 Rev "A"
 Comp "Raphael Knoop - dspverden"
 Comment1 ""
@@ -3814,9 +3814,9 @@ Wire Wire Line
 Wire Wire Line
 	7000 5800 7000 6000
 Wire Wire Line
-	7000 6000 7650 6000
+	7650 6000 7000 6000
 Wire Wire Line
-	7650 6000 7650 5350
+	7650 5350 7650 6000
 Wire Wire Line
 	7650 5700 7600 5700
 Wire Wire Line
@@ -3865,9 +3865,9 @@ Wire Wire Line
 Wire Wire Line
 	7000 2800 7000 3000
 Wire Wire Line
-	7000 3000 7650 3000
+	7650 3000 7000 3000
 Wire Wire Line
-	7650 3000 7650 2350
+	7650 2350 7650 3000
 Wire Wire Line
 	7650 2700 7600 2700
 Connection ~ 7650 2700
@@ -3966,9 +3966,9 @@ Wire Wire Line
 Wire Wire Line
 	7000 1250 7000 1450
 Wire Wire Line
-	7000 1450 7650 1450
+	7650 1450 7000 1450
 Wire Wire Line
-	7650 1450 7650 800 
+	7650 800  7650 1450
 Wire Wire Line
 	7650 1150 7600 1150
 Connection ~ 7650 1150
