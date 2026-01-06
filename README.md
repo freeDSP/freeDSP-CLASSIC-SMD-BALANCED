@@ -9,10 +9,11 @@ SMD Version with 1 I2S expansion header and balanced inputs/outputs and freeUSBi
 - DC power input on barrel jack
 - 1 standard I2S expansion header
 
-For more information, please refer to the website www.freeDSP.cc and the documentation.  
+For more information, please refer to the website [freedsp.github.io](https://freedsp.github.io/) and the documentation.  
 
 ## Status
 Ready
 
 ## License
+
 This work and all other materials under https://github.com/freeDSP are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/legalcode">Creative Commons Attribution Share-Alike 4.0 license</a>. This allows for both personal and commercial derivative works, as long as they credit freeDSP and release their designs under the same license.
